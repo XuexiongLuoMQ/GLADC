@@ -7,11 +7,11 @@ from sklearn.svm import OneClassSVM
 import argparse
 import load_data
 import networkx as nx
-from GCN_embedding import *
+from graph_autoencoder import *
 import torch
 import torch.nn as nn
 import time
-import GCN_embedding
+import graph_autoencoder
 from loss import *
 from util import *
 from torch.autograd import Variable
