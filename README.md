@@ -1,2 +1,2 @@
 # GLADC
-This is the code of Graph-level Anomaly Detection with Graph Contrastive Learning
+This is the code of "Deep Graph Level Anomaly Detection with Contrastive Learning".
