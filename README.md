@@ -1,10 +1,10 @@
 # GLADC
 This is the code of "Deep Graph Level Anomaly Detection with Contrastive Learning".
-#Data Preparation
+# Data Preparation
 Here, we give three example experiment datasets including BZR, COX2 and DHFR. Other datasets can be obtained according to the link in the paper.
-#Experiment Environment 
+# Experiment Environment 
 The required packages are shown in the requirements.txt.
-#Train 
+# Train 
      python main.py
 #### If you find that this code is useful for your research, please cite our paper:
         @article{luo2022deep,
